@@ -1,0 +1,1 @@
+{"description":"A faster drop-in for makefun-diff 1.0.0: the same Myers line diff, the same patch, at about a fifth of the CPU time.","license":"MIT","main":"./solve.js","name":"diff-speed-01-run-20261126","type":"module","version":"1.0.0"}
